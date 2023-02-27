@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Suma4bits_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Suma4bits" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="2,392.858 ns"></ZoomEndTime>
+      <Cursor1Time time="1,200.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="59"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/Suma4bits/numero1" type="array">
+      <obj_property name="ElementShortName">numero1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">numero1[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Suma4bits/numero2" type="array">
+      <obj_property name="ElementShortName">numero2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">numero2[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Suma4bits/SumaTotal" type="array">
+      <obj_property name="ElementShortName">SumaTotal[4:0]</obj_property>
+      <obj_property name="ObjectShortName">SumaTotal[4:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Suma4bits/senalSalidaZ" type="logic">
+      <obj_property name="ElementShortName">senalSalidaZ</obj_property>
+      <obj_property name="ObjectShortName">senalSalidaZ</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Suma4bits/carryAuxiliar" type="array">
+      <obj_property name="ElementShortName">carryAuxiliar[3:0]</obj_property>
+      <obj_property name="ObjectShortName">carryAuxiliar[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Suma4bits/resultado" type="array">
+      <obj_property name="ElementShortName">resultado[4:0]</obj_property>
+      <obj_property name="ObjectShortName">resultado[4:0]</obj_property>
+   </wvobject>
+</wave_config>

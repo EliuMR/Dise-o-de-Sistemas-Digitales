@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documentos/Estudio/Maestria/2-Periodo/Diseno/Tarea/4/project_1/project_1.srcs/sources_1/new/Multiplicador1bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Multiplicador1bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documentos/Estudio/Maestria/2-Periodo/Diseno/Tarea/4/project_1/project_1.srcs/sources_1/new/Multiplicador4bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Multiplicador4bits'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documentos/Estudio/Maestria/2-Periodo/Diseno/Tarea/4/project_1/project_1.srcs/sources_1/new/Suma1bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Suma1bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documentos/Estudio/Maestria/2-Periodo/Diseno/Tarea/4/project_1/project_1.srcs/sources_1/new/Sumador4bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Suma4bits'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documentos/Estudio/Maestria/2-Periodo/Diseno/Tarea/4/project_1/project_1.srcs/sources_1/new/SumadorYMultiplicador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SumadorYMultiplicador'

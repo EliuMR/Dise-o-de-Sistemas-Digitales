@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documentos/Estudio/Maestria/2-Periodo/Diseno/Tarea/Ejercicio_5.6.3/Ejercicio_5.6.3.srcs/sources_1/new/And3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'And3'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documentos/Estudio/Maestria/2-Periodo/Diseno/Tarea/Ejercicio_5.6.3/Ejercicio_5.6.3.srcs/sources_1/new/ArquitecturaPrincipal.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ArquitecturaPrincipal'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documentos/Estudio/Maestria/2-Periodo/Diseno/Tarea/Ejercicio_5.6.3/Ejercicio_5.6.3.srcs/sources_1/new/Inv1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Inv1'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documentos/Estudio/Maestria/2-Periodo/Diseno/Tarea/Ejercicio_5.6.3/Ejercicio_5.6.3.srcs/sources_1/new/Or3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Or3'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documentos/Estudio/Maestria/2-Periodo/Diseno/Tarea/Ejercicio_5.6.3/Ejercicio_5.6.3.srcs/sim_1/new/TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB'

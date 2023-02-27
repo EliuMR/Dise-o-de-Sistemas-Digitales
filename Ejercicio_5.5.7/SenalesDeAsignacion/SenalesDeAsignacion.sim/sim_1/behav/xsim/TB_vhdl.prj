@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../SenalesDeAsignacion.srcs/sources_1/new/SenalAsignacionConcurrente.vhd" \
+"../../../../SenalesDeAsignacion.srcs/sim_1/new/TB.vhd" \
+
+# Do not sort compile order
+nosort

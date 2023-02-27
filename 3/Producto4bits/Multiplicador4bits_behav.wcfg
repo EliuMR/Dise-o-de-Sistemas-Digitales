@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Multiplicador4bits_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Multiplicador4bits" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1,149,997 ps"></ZoomStartTime>
+      <ZoomEndTime time="1,149,998 ps"></ZoomEndTime>
+      <Cursor1Time time="1,150,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="70"></NameColumnWidth>
+      <ValueColumnWidth column_width="71"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="29" />
+   <wvobject fp_name="/Multiplicador4bits/numero1" type="array">
+      <obj_property name="ElementShortName">numero1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">numero1[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/numero2" type="array">
+      <obj_property name="ElementShortName">numero2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">numero2[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/resultado" type="array">
+      <obj_property name="ElementShortName">resultado[7:0]</obj_property>
+      <obj_property name="ObjectShortName">resultado[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/CarryAuxiliar1" type="array">
+      <obj_property name="ElementShortName">CarryAuxiliar1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">CarryAuxiliar1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/CarryAuxiliar2" type="array">
+      <obj_property name="ElementShortName">CarryAuxiliar2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">CarryAuxiliar2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/CarryAuxiliar3" type="array">
+      <obj_property name="ElementShortName">CarryAuxiliar3[3:0]</obj_property>
+      <obj_property name="ObjectShortName">CarryAuxiliar3[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A1B0" type="logic">
+      <obj_property name="ElementShortName">A1B0</obj_property>
+      <obj_property name="ObjectShortName">A1B0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A0B1" type="logic">
+      <obj_property name="ElementShortName">A0B1</obj_property>
+      <obj_property name="ObjectShortName">A0B1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A2B0" type="logic">
+      <obj_property name="ElementShortName">A2B0</obj_property>
+      <obj_property name="ObjectShortName">A2B0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A1B1" type="logic">
+      <obj_property name="ElementShortName">A1B1</obj_property>
+      <obj_property name="ObjectShortName">A1B1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A3B0" type="logic">
+      <obj_property name="ElementShortName">A3B0</obj_property>
+      <obj_property name="ObjectShortName">A3B0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A2B1" type="logic">
+      <obj_property name="ElementShortName">A2B1</obj_property>
+      <obj_property name="ObjectShortName">A2B1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A3B1" type="logic">
+      <obj_property name="ElementShortName">A3B1</obj_property>
+      <obj_property name="ObjectShortName">A3B1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A0B2" type="logic">
+      <obj_property name="ElementShortName">A0B2</obj_property>
+      <obj_property name="ObjectShortName">A0B2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A0_B2" type="logic">
+      <obj_property name="ElementShortName">A0_B2</obj_property>
+      <obj_property name="ObjectShortName">A0_B2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A1B2" type="logic">
+      <obj_property name="ElementShortName">A1B2</obj_property>
+      <obj_property name="ObjectShortName">A1B2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A1_B2" type="logic">
+      <obj_property name="ElementShortName">A1_B2</obj_property>
+      <obj_property name="ObjectShortName">A1_B2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A2B2" type="logic">
+      <obj_property name="ElementShortName">A2B2</obj_property>
+      <obj_property name="ObjectShortName">A2B2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A2_B2" type="logic">
+      <obj_property name="ElementShortName">A2_B2</obj_property>
+      <obj_property name="ObjectShortName">A2_B2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A3B2" type="logic">
+      <obj_property name="ElementShortName">A3B2</obj_property>
+      <obj_property name="ObjectShortName">A3B2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A3_B2" type="logic">
+      <obj_property name="ElementShortName">A3_B2</obj_property>
+      <obj_property name="ObjectShortName">A3_B2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A0B3" type="logic">
+      <obj_property name="ElementShortName">A0B3</obj_property>
+      <obj_property name="ObjectShortName">A0B3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A0_B3" type="logic">
+      <obj_property name="ElementShortName">A0_B3</obj_property>
+      <obj_property name="ObjectShortName">A0_B3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A1B3" type="logic">
+      <obj_property name="ElementShortName">A1B3</obj_property>
+      <obj_property name="ObjectShortName">A1B3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A1_B3" type="logic">
+      <obj_property name="ElementShortName">A1_B3</obj_property>
+      <obj_property name="ObjectShortName">A1_B3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A2B3" type="logic">
+      <obj_property name="ElementShortName">A2B3</obj_property>
+      <obj_property name="ObjectShortName">A2B3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A2_B3" type="logic">
+      <obj_property name="ElementShortName">A2_B3</obj_property>
+      <obj_property name="ObjectShortName">A2_B3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A3B3" type="logic">
+      <obj_property name="ElementShortName">A3B3</obj_property>
+      <obj_property name="ObjectShortName">A3B3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplicador4bits/A3_B3" type="logic">
+      <obj_property name="ElementShortName">A3_B3</obj_property>
+      <obj_property name="ObjectShortName">A3_B3</obj_property>
+   </wvobject>
+</wave_config>

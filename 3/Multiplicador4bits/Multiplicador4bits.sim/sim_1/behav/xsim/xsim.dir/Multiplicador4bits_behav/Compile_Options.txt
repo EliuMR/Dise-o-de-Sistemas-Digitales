@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Multiplicador4bits_behav" "xil_defaultlib.Multiplicador4bits" -log "elaborate.log" 

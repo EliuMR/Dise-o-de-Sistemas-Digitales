@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documentos/Estudio/Maestria/2-Periodo/Diseno/Tarea/2/Sumador4bits/Sumador4bits.srcs/sources_1/new/Suma1bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Suma1bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documentos/Estudio/Maestria/2-Periodo/Diseno/Tarea/2/Sumador4bits/Sumador4bits.srcs/sources_1/new/Sumador4bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Suma4bits'
